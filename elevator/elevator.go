@@ -1,8 +1,8 @@
 package elevator
 
 import (
+	"elevator/queue"
 	"fmt"
-	"queue"
 )
 
 // Elevator
